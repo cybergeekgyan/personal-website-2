@@ -4,7 +4,7 @@
 
 // ==========================================================================
 // Print styles.
-// Inlined to avoid the additional HTTP request:
+// Inlined to avoid the additional HTTPS request:
 // https://www.phpied.com/delay-loading-your-print-css/
 // ==========================================================================
 
@@ -57,7 +57,7 @@
 
     //
     // Printing Tables:
-    // http://css-discuss.incutio.com/wiki/Printing_Tables
+    // https://css-discuss.incutio.com/wiki/Printing_Tables
     //
 
     thead {
